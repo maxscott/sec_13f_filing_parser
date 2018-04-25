@@ -1,0 +1,579 @@
+<SEC-DOCUMENT>0001178913-18-001251.txt : 20180424
+<SEC-HEADER>0001178913-18-001251.hdr.sgml : 20180424
+<ACCEPTANCE-DATETIME>20180424075713
+ACCESSION NUMBER:		0001178913-18-001251
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20180331
+FILED AS OF DATE:		20180424
+DATE AS OF CHANGE:		20180424
+EFFECTIVENESS DATE:		20180424
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Mivtachim The Workers Social Insurance Fund Ltd. (Under Special Management)
+		CENTRAL INDEX KEY:			0001599719
+		IRS NUMBER:				980486034
+		STATE OF INCORPORATION:			L3
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-15914
+		FILM NUMBER:		18770165
+
+	BUSINESS ADDRESS:	
+		STREET 1:		125 MENACHEM BEGIN STREET
+		CITY:			TEL AVIV
+		STATE:			L3
+		ZIP:			67021
+		BUSINESS PHONE:		972-77-7774800
+
+	MAIL ADDRESS:	
+		STREET 1:		125 MENACHEM BEGIN STREET
+		CITY:			TEL AVIV
+		STATE:			L3
+		ZIP:			67021
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xsi:schemaLocation="http://www.sec.gov/edgar/thirteenffiler eis_13F_Filer.xsd" xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001599719</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2018</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2018</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>Mivtachim The Workers Social Insurance Fund Ltd. (Under Special Management)</name>
+        <address>
+          <ns1:street1>125 Menachem Begin Street</ns1:street1>
+          <ns1:city>Tel Aviv</ns1:city>
+          <ns1:stateOrCountry>L3</ns1:stateOrCountry>
+          <ns1:zipCode>67021</ns1:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-15914</form13FFileNumber>
+      <provideInfoForInstruction5>Y</provideInfoForInstruction5>
+      <additionalInformation>The securities reported herein are beneficially owned by the Israel senior pension and provident funds under a special manager appointed by law by the Supervisor of Capital Markets, Insurance &amp; Savings of the State of Israel (the "Funds"). "Amitim Senior Pension Funds" is the "brand name" of the organizational structure that incorporates the Funds. "Amitim Senior Pension Funds" is not a legal entity, while each of the Funds is a separate legal entity.  For convenience only, this form is filed by "Mivtachim The Workers Social Insurance Fund Ltd. (Under Special Management)" ("Mivtachim"), which is one the Funds.  It should be noted that the Information Table contained herein includes holdings of two Funds that are otherwise required to file Form 13F ((i) Kerren Makefet Pension and Provident Center - Cooperative Society Ltd. (Under Special Management) and (ii) Kerren Hgimlaot Hmerkazit Histradrut Central Pension Fund Ltd. - Under Special Management), as well as holdings of Mivtachim listed together with (i) the holdings of other Funds and (ii) portion of the investment portfolio of Karnit Road Accident Victims Compensation Fund (which is currently managed by Mivtachim), which are not individually required to file Form 13F.</additionalInformation>
+    </coverPage>
+    <signatureBlock>
+      <name>Eli Levi</name>
+      <title>Chief Financial Officer</title>
+      <phone>972-77-7774800</phone>
+      <signature>/s/ Eli Levi</signature>
+      <city>Tel Aviv</city>
+      <stateOrCountry>L3</stateOrCountry>
+      <signatureDate>04-24-2018</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>2</otherIncludedManagersCount>
+      <tableEntryTotal>27</tableEntryTotal>
+      <tableValueTotal>1415687</tableValueTotal>
+      <isConfidentialOmitted>true</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <cik>0001599721</cik>
+            <form13FFileNumber>028-15916</form13FFileNumber>
+            <name>Kerren Makefet Pension &amp; Provident Center - Cooperative Society Ltd. (Under Special Management)</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <cik>0001600084</cik>
+            <form13FFileNumber>028-15917</form13FFileNumber>
+            <name>Keren Hgimlaot Hmerkazit Histadrut Central Pension Fund Ltd. - Under Special Management</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>infotable.xml
+<TEXT>
+<XML>
+<?xml version="1.0" ?>
+<informationTable xsi:schemaLocation="http://www.sec.gov/edgar/document/thirteenf/informationtable eis_13FDocument.xsd" xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:n1="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <infoTable>
+    <nameOfIssuer>ORMAT TECHNOLOGIES INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>686688102</cusip>
+    <value>15790</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>280065</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>280065</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>TEVA PHARMACEUTICAL INDS LTD</nameOfIssuer>
+    <titleOfClass>ADR</titleOfClass>
+    <cusip>881624209</cusip>
+    <value>4832</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>282763</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>282763</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SPDR TR SBI INT-INDS</nameOfIssuer>
+    <titleOfClass>TR UNIT</titleOfClass>
+    <cusip>81369Y704</cusip>
+    <value>21958</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>295576</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>295576</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SODASTREAM INTERNATIONAL LTD USD SHS</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>M9068E105</cusip>
+    <value>7102</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>77339</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>77339</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CONSUMER DISCRETIONARY SELT</nameOfIssuer>
+    <titleOfClass>SELT</titleOfClass>
+    <cusip>922042866</cusip>
+    <value>5596</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>55246</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>55246</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>PERRIGO CO PLC SHS</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>g97822103</cusip>
+    <value>4413</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>52953</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>52953</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>TOWER SEMICONDUCTOR LTD SHS NEW</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>M87915274</cusip>
+    <value>5315</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>197525</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>197525</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ISHARES MSCI JAPAN ETF</nameOfIssuer>
+    <titleOfClass>TR SBI CONS DISCR</titleOfClass>
+    <cusip>46434G822</cusip>
+    <value>9567</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>157671</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>157671</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SPDR S&amp;P 500 ETF TR</nameOfIssuer>
+    <titleOfClass>TR UNIT</titleOfClass>
+    <cusip>78462F103</cusip>
+    <value>113490</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>431276</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>431276</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>OPKO HEALTH INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>68375N103</cusip>
+    <value>2886</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>910318</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>910318</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>VANGUARD INDEX FDS</nameOfIssuer>
+    <titleOfClass>REIT ETF</titleOfClass>
+    <cusip>922908553</cusip>
+    <value>274821</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>3641466</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>3641466</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>FINANCIAL SELECT SECTOR SPDR</nameOfIssuer>
+    <titleOfClass>TR UNIT</titleOfClass>
+    <cusip>81369Y605</cusip>
+    <value>33021</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1197715</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>1197715</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>MAZOR ROBOTICS LTD SPONSORED ADS</nameOfIssuer>
+    <titleOfClass>ADR</titleOfClass>
+    <cusip>57886P103</cusip>
+    <value>5676</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>92505</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <otherManager>1,2</otherManager>
+    <votingAuthority>
+      <Sole>92505</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>VANGUARD INDEX FDS</nameOfIssuer>
+    <titleOfClass>REIT ETF</titleOfClass>
+    <cusip>922908553</cusip>
+    <value>32490</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>430500</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>430500</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ORMAT TECHNOLOGIES INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>686688102</cusip>
+    <value>23934</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>424521</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>424521</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>TEVA PHARMACEUTICAL INDS LTD</nameOfIssuer>
+    <titleOfClass>ADR</titleOfClass>
+    <cusip>881624209</cusip>
+    <value>7131</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>417237</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>417237</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SPDR TR SBI INT-INDS</nameOfIssuer>
+    <titleOfClass>TR UNIT</titleOfClass>
+    <cusip>81369Y704</cusip>
+    <value>37670</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>507064</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>507064</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SODASTREAM INTERNATIONAL LTD USD SHS</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>M9068E105</cusip>
+    <value>10558</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>114973</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>114973</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>CONSUMER DISCRETIONARY SELT</nameOfIssuer>
+    <titleOfClass>SELT</titleOfClass>
+    <cusip>922042866</cusip>
+    <value>8200</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>80954</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>80954</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>PERRIGO CO PLC SHS</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>g97822103</cusip>
+    <value>7309</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>87703</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>87703</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>TOWER SEMICONDUCTOR LTD SHS NEW</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>M87915274</cusip>
+    <value>7930</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>294686</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>294686</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>ISHARES MSCI JAPAN ETF</nameOfIssuer>
+    <titleOfClass>TR SBI CONS DISCR</titleOfClass>
+    <cusip>46434G822</cusip>
+    <value>11216</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>184839</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>184839</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>SPDR S&amp;P 500 ETF TR</nameOfIssuer>
+    <titleOfClass>TR UNIT</titleOfClass>
+    <cusip>78462F103</cusip>
+    <value>170386</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>647488</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>647488</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>OPKO HEALTH INC</nameOfIssuer>
+    <titleOfClass>COM</titleOfClass>
+    <cusip>68375N103</cusip>
+    <value>4596</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1449730</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>1449730</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>VANGUARD INDEX FDS</nameOfIssuer>
+    <titleOfClass>REIT ETF</titleOfClass>
+    <cusip>922908553</cusip>
+    <value>525073</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>6957375</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>6957375</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>FINANCIAL SELECT SECTOR SPDR</nameOfIssuer>
+    <titleOfClass>TR UNIT</titleOfClass>
+    <cusip>81369Y605</cusip>
+    <value>56404</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>2045835</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>2045835</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>MAZOR ROBOTICS LTD SPONSORED ADS</nameOfIssuer>
+    <titleOfClass>ADR</titleOfClass>
+    <cusip>57886P103</cusip>
+    <value>8321</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>135614</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>DFND</investmentDiscretion>
+    <votingAuthority>
+      <Sole>135614</Sole>
+      <Shared>0</Shared>
+      <None>0</None>
+    </votingAuthority>
+  </infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

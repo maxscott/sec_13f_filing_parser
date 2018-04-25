@@ -1,0 +1,6 @@
+%{
+  "file_system": {:hex, :file_system, "0.2.4", "f0bdda195c0e46e987333e986452ec523aed21d784189144f647c43eaf307064", [:mix], []},
+  "floki": {:hex, :floki, "0.8.1", "06aa75bf2d1e01cda7d2ad54f68614be653a11e76b474d8fcb1d838f8c1e0ad1", [:mix], [{:mochiweb_html, "~> 2.15", [hex: :mochiweb_html, optional: false]}]},
+  "mix_test_watch": {:hex, :mix_test_watch, "0.6.0", "5e206ed04860555a455de2983937efd3ce79f42bd8536fc6b900cc286f5bb830", [:mix], [{:file_system, "~> 0.2.1 or ~> 0.3", [hex: :file_system, optional: false]}]},
+  "mochiweb_html": {:hex, :mochiweb_html, "2.15.0", "d7402e967d7f9f2912f8befa813c37be62d5eeeddbbcb6fe986c44e01460d497", [:rebar3], []},
+}
